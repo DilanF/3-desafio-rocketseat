@@ -9,7 +9,8 @@ body {
 }
 
 .page {
-  width: 1000px;
+  width: 100%;
+  max-width: 1000px;
   margin: 0 auto;
   padding-top: 65px;
 }
@@ -61,8 +62,8 @@ h1 {
   color: #1f1534;
 
   font-weight: normal;
-
-  width: 490px;
+  width: 100%;
+  max-width: 490px;
 }
 
 h1 span {
@@ -113,4 +114,25 @@ footer a {
     position: fixed;
     bottom: 0;
     right: 0;
+}
+
+@media (max-width: 900px) {
+  main {
+    flex-direction: column;
+    align-items: center;
+  }
+  .page {
+    padding: 10px;
+    box-sizing: border-box;
+  }
+}
+@media (max-width: 550px) {
+  #balls {
+    display: none;
+  }
+}
+@media (max-width: 450px) {
+  ul {
+    gap: 20px;
+  }
 }
