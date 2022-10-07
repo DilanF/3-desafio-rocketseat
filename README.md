@@ -1,10 +1,11 @@
-# 3º Desafio do explorer Rocketseat 🚀
+# Semântica e acessibilidade
 
 ![preview](./images/preview.png)
 
-O terceiro desafio da trilha explorer da Rocketseat
+3º Desafio da trilha Explorar da Rocketseat.  
+Reforçamos os conceitos das aulas anteriores
 
-[🔗 Clique aqui para acessar](https://dilanferrari.github.io/3-desafio-rocktseat/)
+[🔗 Clique aqui para acessar](https://dilanferrari.github.io/semantica-acessibilidade/)
 
 ## 🖥️ Tecnologias
 
